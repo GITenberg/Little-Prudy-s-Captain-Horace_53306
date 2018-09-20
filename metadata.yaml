@@ -1,0 +1,30 @@
+_repo: Little-Prudy-s-Captain-Horace_53306
+_version: 0.0.1
+creator:
+  author:
+    agent_name: May, Sophie
+    alias: Clarke, Rebecca Sophia
+    birthdate: 1833
+    deathdate: 1906
+    gutenberg_agent_id: '3465'
+    url: http://www.gutenberg.org/2009/agents/3465
+    wikipedia: http://en.wikipedia.org/wiki/Rebecca_Sophia_Clarke
+description: ''
+gutenberg_issued: '2016-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53306'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- GITenberg
+title: Little Prudy's Captain Horace
+url: http://www.gutenberg.org/ebooks/53306
